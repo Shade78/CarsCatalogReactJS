@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "MAZDA",
+      "price": "7777777777",
+      "image": "https://avatars.mds.yandex.net/i?id=738e295f5731f183b6fbd73b42566594bb66508e-9052192-images-thumbs&n=13"
+    },
+    {
+      "id": 2,
+      "name": "SUZUKI",
+      "price": "55555555",
+      "image": "https://avatars.mds.yandex.net/i?id=177b5caed5da0e975a11b63257a471448864b9b7-9123151-images-thumbs&n=13"
+    },
+    {
+      "id": 3,
+      "name": "Telsa model 3",
+      "price": "490000",
+      "image": "https://avatars.mds.yandex.net/i?id=6eb5464f77092409ac697ba8a276de42b79a5338-9229664-images-thumbs&n=13"
+    }
+  ]
+}

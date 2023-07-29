@@ -1,0 +1,50 @@
+{
+    "cars": [{
+      "id": 1,
+      "name": "Mazda rx 8",
+      "price": "7777777777",
+      "image": "https://avatars.mds.yandex.net/i?id=1371393e9e2dcc1be772a185fbdcb75295752140-3675767-images-thumbs&n=13"
+      },
+    {
+      "id": 2,
+      "name": "BMW x7",
+      "price": "55555555",
+      "image": "https://avatars.mds.yandex.net/i?id=6085912c8c12ebe85da1d049a23418428ef266f9-3906043-images-thumbs&n=13"
+    },
+    {
+      "id": 3,
+      "name": "Telsa model 3",
+      "price": "490000",
+      "image": "https://avatars.mds.yandex.net/i?id=6eb5464f77092409ac697ba8a276de42b79a5338-9229664-images-thumbs&n=13"
+    },
+    {
+      "id": 4,
+      "name": "Suzuki S-Cross 2023",
+      "price": "27000",
+      "image": "https://avatars.dzeninfra.ru/get-zen_doc/9429953/pub_6409ae2ed9258c3cb1b216ba_6409b05f90d3b011ec62c57b/scale_1200"
+    },
+    {
+      "id": 5,
+      "name": "McLaren 720s",
+      "price": "890000",
+      "image": "https://avatars.mds.yandex.net/i?id=3124e5c736fd745151bb14d62fab64b0baf0db0e-9065885-images-thumbs&n=13"
+    },
+    {
+      "id": 6,
+      "name": "Ford Mustang GT 390 Fastback",
+      "price": "123456987",
+      "image": "https://classiccarcollectornews.com/wp-content/uploads/2018/02/1967-ford-mustang-gt-390-coupe-13-1024x768.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Toyota tundra",
+      "price": "2290000",
+      "image": "https://avatars.mds.yandex.net/i?id=b1d379056eabd187e9c6d9bc918a2a42242a8576-5364864-images-thumbs&n=13"
+    },
+    {
+      "id": 8,
+      "name": "Volkswagen Passat",
+      "price": "1700000",
+      "image": "https://i-tc.ru/wp-content/uploads/2021/02/passat-b8-front.jpg"
+    }]
+}

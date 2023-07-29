@@ -17,7 +17,7 @@ function CarItem({car}) {
             ></div>
             <div className={styles.info}>
                 <h2> {car.name} </h2>
-                <button onClick={() => setCount(prev => prev + 1)}>count + 1</button>
+                
                 <Price price={car.price}/>
                 <Link className='btn' to={`/car/${car.id}`}> Read more </Link>
             </div>

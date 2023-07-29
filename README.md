@@ -12,6 +12,8 @@ Currently, two official plugins are available:
 ![image](https://github.com/Shade78/CarsCatalogReactJS/assets/43784874/e923fdee-13c8-40d4-9f9c-5eb37b33e93e)
 ![image](https://github.com/Shade78/CarsCatalogReactJS/assets/43784874/45f7c324-b6a1-46de-b6fe-18144bb2f5bd)
 ![image](https://github.com/Shade78/CarsCatalogReactJS/assets/43784874/7dfbb17d-7c1f-4474-b9d7-4331b389c878)
+![image](https://github.com/Shade78/CarsCatalogReactJS/assets/43784874/4047a9a2-2d63-4d3f-84e0-d545ca9e33bf)
+![image](https://github.com/Shade78/CarsCatalogReactJS/assets/43784874/d7953efe-274c-474d-a2a7-0b8759f1681c)
 
 
 
